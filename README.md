@@ -279,7 +279,7 @@ Hugging Face Datasets, Gensim, Statsmodels, TorchMetrics, and Torch-Fidelity.
 
 ---
 
-Author: Faeze Ahmadi
-Deep Learning Problem Set
-Institute for Advanced Studies in Basic Sciences (IASBS)
+Author: Faeze Ahmadi,
+Deep Learning Problem Set,
+Institute for Advanced Studies in Basic Sciences (IASBS),
 2026
