@@ -247,6 +247,8 @@ deep-learning-problem-set/
 ├── requirements.txt
 └── README.md
 
+```
+
 Each problem folder contains the corresponding notebook and experiment code.
 The report/ directory contains the complete project report with detailed code
 explanations, experiment results, figures, and analysis.
